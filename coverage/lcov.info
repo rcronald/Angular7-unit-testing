@@ -1,5 +1,5 @@
 TN:
-SF:C:\Users\maniv\Angular7-unit-testing\src\polyfills.ts
+SF:/opt/app/src/polyfills.ts
 FNF:0
 FNH:0
 DA:46,1
@@ -10,7 +10,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:C:\Users\maniv\Angular7-unit-testing\src\test.ts
+SF:/opt/app/src/test.ts
 FNF:0
 FNH:0
 DA:3,1
@@ -25,7 +25,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:C:\Users\maniv\Angular7-unit-testing\src\app\app.component.ts
+SF:/opt/app/src/app/app.component.ts
 FN:8,(anonymous_2)
 FN:11,AppComponent
 FN:12,(anonymous_4)
@@ -45,7 +45,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:C:\Users\maniv\Angular7-unit-testing\src\app\reversePipe\reverse-value.pipe.ts
+SF:/opt/app/src/app/reversePipe/reverse-value.pipe.ts
 FN:6,(anonymous_1)
 FN:7,(anonymous_3)
 FNF:2
@@ -63,7 +63,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:C:\Users\maniv\Angular7-unit-testing\src\app\shared\sharedService.service.ts
+SF:/opt/app/src/app/shared/sharedService.service.ts
 FN:7,(anonymous_2)
 FN:9,SharedService
 FN:11,(anonymous_4)
@@ -86,7 +86,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:C:\Users\maniv\Angular7-unit-testing\src\app\user\user.component.ts
+SF:/opt/app/src/app/user/user.component.ts
 FN:10,(anonymous_2)
 FN:14,UserComponent
 FN:16,(anonymous_4)
@@ -115,7 +115,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:C:\Users\maniv\Angular7-unit-testing\src\app\user\user.service.ts
+SF:/opt/app/src/app/user/user.service.ts
 FN:4,(anonymous_1)
 FN:3,UserService
 FN:9,(anonymous_3)
@@ -136,7 +136,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:C:\Users\maniv\Angular7-unit-testing\src\app\user-async\user-async.component.ts
+SF:/opt/app/src/app/user-async/user-async.component.ts
 FN:11,(anonymous_2)
 FN:17,UserAsyncComponent
 FN:19,(anonymous_4)
@@ -169,7 +169,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:C:\Users\maniv\Angular7-unit-testing\src\app\user-async\user-async.service.ts
+SF:/opt/app/src/app/user-async/user-async.service.ts
 FN:3,(anonymous_0)
 FN:5,(anonymous_2)
 FN:8,(anonymous_3)

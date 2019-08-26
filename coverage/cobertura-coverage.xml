@@ -1,0 +1,269 @@
+<?xml version="1.0" ?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage lines-valid="67" lines-covered="67" line-rate="1" branches-valid="2" branches-covered="2" branch-rate="1" timestamp="1566803914708" complexity="0" version="0.1">
+  <sources>
+    <source>/opt/app</source>
+  </sources>
+  <packages>
+    <package name="src" line-rate="1" branch-rate="1">
+      <classes>
+        <class name="polyfills.ts" filename="src/polyfills.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+            <line number="46" hits="1" branch="false"/>
+            <line number="74" hits="1" branch="false"/>
+          </lines>
+        </class>
+        <class name="test.ts" filename="src/test.ts" line-rate="1" branch-rate="1">
+          <methods>
+          </methods>
+          <lines>
+            <line number="3" hits="1" branch="false"/>
+            <line number="4" hits="1" branch="false"/>
+            <line number="5" hits="1" branch="false"/>
+            <line number="13" hits="1" branch="false"/>
+            <line number="18" hits="1" branch="false"/>
+            <line number="20" hits="1" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="src.app" line-rate="1" branch-rate="1">
+      <classes>
+        <class name="app.component.ts" filename="src/app/app.component.ts" line-rate="1" branch-rate="1">
+          <methods>
+            <method name="(anonymous_2)" hits="1" signature="()V">
+              <lines>
+                <line number="8" hits="1"/>
+              </lines>
+            </method>
+            <method name="AppComponent" hits="3" signature="()V">
+              <lines>
+                <line number="11" hits="3"/>
+              </lines>
+            </method>
+            <method name="(anonymous_4)" hits="1" signature="()V">
+              <lines>
+                <line number="12" hits="1"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="1" hits="1" branch="false"/>
+            <line number="8" hits="1" branch="false"/>
+            <line number="9" hits="3" branch="false"/>
+            <line number="12" hits="1" branch="false"/>
+            <line number="13" hits="1" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="src.app.reversePipe" line-rate="1" branch-rate="1">
+      <classes>
+        <class name="reverse-value.pipe.ts" filename="src/app/reversePipe/reverse-value.pipe.ts" line-rate="1" branch-rate="1">
+          <methods>
+            <method name="(anonymous_1)" hits="2" signature="()V">
+              <lines>
+                <line number="6" hits="2"/>
+              </lines>
+            </method>
+            <method name="(anonymous_3)" hits="1" signature="()V">
+              <lines>
+                <line number="7" hits="1"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="1" hits="1" branch="false"/>
+            <line number="6" hits="1" branch="false"/>
+            <line number="7" hits="1" branch="false"/>
+            <line number="8" hits="1" branch="false"/>
+            <line number="13" hits="1" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="src.app.shared" line-rate="1" branch-rate="1">
+      <classes>
+        <class name="sharedService.service.ts" filename="src/app/shared/sharedService.service.ts" line-rate="1" branch-rate="1">
+          <methods>
+            <method name="(anonymous_2)" hits="1" signature="()V">
+              <lines>
+                <line number="7" hits="1"/>
+              </lines>
+            </method>
+            <method name="SharedService" hits="1" signature="()V">
+              <lines>
+                <line number="9" hits="1"/>
+              </lines>
+            </method>
+            <method name="(anonymous_4)" hits="1" signature="()V">
+              <lines>
+                <line number="11" hits="1"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="1" hits="1" branch="false"/>
+            <line number="2" hits="1" branch="false"/>
+            <line number="7" hits="1" branch="false"/>
+            <line number="9" hits="1" branch="false"/>
+            <line number="11" hits="1" branch="false"/>
+            <line number="12" hits="1" branch="false"/>
+            <line number="19" hits="1" branch="false"/>
+            <line number="22" hits="1" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="src.app.user" line-rate="1" branch-rate="1">
+      <classes>
+        <class name="user.component.ts" filename="src/app/user/user.component.ts" line-rate="1" branch-rate="1">
+          <methods>
+            <method name="(anonymous_2)" hits="1" signature="()V">
+              <lines>
+                <line number="10" hits="1"/>
+              </lines>
+            </method>
+            <method name="UserComponent" hits="6" signature="()V">
+              <lines>
+                <line number="14" hits="6"/>
+              </lines>
+            </method>
+            <method name="(anonymous_4)" hits="3" signature="()V">
+              <lines>
+                <line number="16" hits="3"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="1" hits="1" branch="false"/>
+            <line number="2" hits="1" branch="false"/>
+            <line number="10" hits="1" branch="false"/>
+            <line number="12" hits="6" branch="false"/>
+            <line number="14" hits="6" branch="false"/>
+            <line number="16" hits="1" branch="false"/>
+            <line number="17" hits="3" branch="false"/>
+            <line number="18" hits="3" branch="true" condition-coverage="100% (2/2)"/>
+            <line number="19" hits="2" branch="false"/>
+            <line number="20" hits="2" branch="false"/>
+            <line number="22" hits="1" branch="false"/>
+            <line number="25" hits="1" branch="false"/>
+          </lines>
+        </class>
+        <class name="user.service.ts" filename="src/app/user/user.service.ts" line-rate="1" branch-rate="1">
+          <methods>
+            <method name="(anonymous_1)" hits="1" signature="()V">
+              <lines>
+                <line number="4" hits="1"/>
+              </lines>
+            </method>
+            <method name="UserService" hits="6" signature="()V">
+              <lines>
+                <line number="3" hits="6"/>
+              </lines>
+            </method>
+            <method name="(anonymous_3)" hits="1" signature="()V">
+              <lines>
+                <line number="9" hits="1"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="1" hits="1" branch="false"/>
+            <line number="4" hits="1" branch="false"/>
+            <line number="5" hits="6" branch="false"/>
+            <line number="9" hits="1" branch="false"/>
+            <line number="10" hits="1" branch="false"/>
+            <line number="12" hits="1" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="src.app.user-async" line-rate="1" branch-rate="1">
+      <classes>
+        <class name="user-async.component.ts" filename="src/app/user-async/user-async.component.ts" line-rate="1" branch-rate="1">
+          <methods>
+            <method name="(anonymous_2)" hits="1" signature="()V">
+              <lines>
+                <line number="11" hits="1"/>
+              </lines>
+            </method>
+            <method name="UserAsyncComponent" hits="6" signature="()V">
+              <lines>
+                <line number="17" hits="6"/>
+              </lines>
+            </method>
+            <method name="(anonymous_4)" hits="3" signature="()V">
+              <lines>
+                <line number="19" hits="3"/>
+              </lines>
+            </method>
+            <method name="(anonymous_5)" hits="2" signature="()V">
+              <lines>
+                <line number="21" hits="2"/>
+              </lines>
+            </method>
+            <method name="(anonymous_6)" hits="1" signature="()V">
+              <lines>
+                <line number="25" hits="1"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="1" hits="1" branch="false"/>
+            <line number="2" hits="1" branch="false"/>
+            <line number="11" hits="1" branch="false"/>
+            <line number="12" hits="6" branch="false"/>
+            <line number="15" hits="6" branch="false"/>
+            <line number="16" hits="6" branch="false"/>
+            <line number="17" hits="6" branch="false"/>
+            <line number="19" hits="3" branch="false"/>
+            <line number="20" hits="3" branch="false"/>
+            <line number="22" hits="2" branch="false"/>
+            <line number="23" hits="2" branch="false"/>
+            <line number="26" hits="1" branch="false"/>
+            <line number="27" hits="1" branch="false"/>
+            <line number="31" hits="1" branch="false"/>
+          </lines>
+        </class>
+        <class name="user-async.service.ts" filename="src/app/user-async/user-async.service.ts" line-rate="1" branch-rate="1">
+          <methods>
+            <method name="(anonymous_0)" hits="7" signature="()V">
+              <lines>
+                <line number="3" hits="7"/>
+              </lines>
+            </method>
+            <method name="(anonymous_2)" hits="1" signature="()V">
+              <lines>
+                <line number="5" hits="1"/>
+              </lines>
+            </method>
+            <method name="(anonymous_3)" hits="1" signature="()V">
+              <lines>
+                <line number="8" hits="1"/>
+              </lines>
+            </method>
+            <method name="(anonymous_4)" hits="1" signature="()V">
+              <lines>
+                <line number="9" hits="1"/>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="1" hits="1" branch="false"/>
+            <line number="3" hits="1" branch="false"/>
+            <line number="4" hits="6" branch="false"/>
+            <line number="5" hits="1" branch="false"/>
+            <line number="7" hits="1" branch="false"/>
+            <line number="9" hits="1" branch="false"/>
+            <line number="10" hits="1" branch="false"/>
+            <line number="14" hits="1" branch="false"/>
+            <line number="16" hits="1" branch="false"/>
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
